@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p4MjlobTc0MnNteno5c3pkd25nd2RzNWNlYzUxMXJ3YjhjMnkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" width="500"/>
   
   <div align="center" style="margin: 20px 0;">
-      <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <a href="https://discord.gg/dzDFVfJB">
+    <img src="(https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord Badge"/>
   </a>
   </div>
 </div>

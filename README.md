@@ -87,11 +87,6 @@ I'd appreciate any advice, book/course recommendations, etc.
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   </a>
   
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 

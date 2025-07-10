@@ -3,8 +3,8 @@
   
   <div align="center" style="margin: 20px 0;">
       <a href="https://discord.gg/dzDFVfJB">
-    <img src="(https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
   </div>
 </div>
 

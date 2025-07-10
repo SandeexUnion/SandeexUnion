@@ -19,28 +19,31 @@
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">🧑‍💻 Обо мне</span>
 
 <span style="color: #900C3F; font-family: 'Courier New'; display: block; background: rgba(61, 0, 17, 0.3); padding: 10px; border-left: 3px solid #FF0033;">
-Привет! Меня зовут Sandeex. Я разработчик в темных тонах багрового спектра:
+Привет! Меня зовут Sandeex. Я разработчик программного обеспечения с опытом работы в:
 </span>
 
-- <span style="color: #C70039;">Разработка игр на Unity (C#)</span>
-- <span style="color: #7A0032;">Создание backend-решений на .NET/Python</span>
-- <span style="color: #FF0033;">Работа с базами данных и API</span>
+- <span style="color: #C70039;">Разработке игр на Unity (C#)</span>
+- <span style="color: #7A0032;">Создании backend-решений на .NET/Python Data Analysis, Telegram bots</span>
+- <span style="color: #FF0033;">Работы с базами данных SQLite, MySQL и API</span>
 - <span style="color: #3D0011;">C/C++ для университетских лабораторных</span>
 
+Буду очень рад советам, рекомендациям по литературе/курсам и прочее.
 ---
 
 <a name="en"></a>
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">👨‍💻 About Me</span>
 
 <span style="color: #900C3F; font-family: 'Courier New'; display: block; background: rgba(61, 0, 17, 0.3); padding: 10px; border-left: 3px solid #FF0033;">
-Hello! I'm Sandeex. A developer immersed in crimson shadows:
+Hello! I'm Sandeex. I'm a software developer with experience in:
 </span>
 
 - <span style="color: #C70039;">Unity game development (C#)</span>
-- <span style="color: #7A0032;">Building backend solutions with .NET/Python</span>
-- <span style="color: #FF0033;">Working with databases and APIs</span>
+- <span style="color: #7A0032;">Building backend solutions with .NET/Python Data Analysis, Telegram bots</span>
+- <span style="color: #FF0033;">Working with databases SQLite, MySQL and APIs</span>
 - <span style="color: #3D0011;">C/C++ for university labs</span>
 
+I'd appreciate any advice, book/course recommendations, etc.
+---
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">🛠 Technologies</span>
 
 <p align="left">

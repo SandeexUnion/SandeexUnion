@@ -1,12 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p4MjlobTc0MnNteno5c3pkd25nd2RzNWNlYzUxMXJ3YjhjMnkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" width="500" style="filter: hue-rotate(330deg) saturate(500%) brightness(0.8)"/>
   
-  <div align="center" style="margin: 20px 0;">
-      <a href="https://discord.gg/dzDFVfJB">
-  <img src="https://img.shields.io/badge/Discord-%237A0032?style=for-the-badge&logo=discord&logoColor=white&labelColor=3D0011" alt="Discord Badge"/>
-</a>
-  </div>
-</div>
+
 
 <div align="center" style="font-family: 'Courier New'; color: #C70039;">
   <a href="#ru" style="color: #900C3F; text-shadow: 0 0 8px #FF0033;">🇷🇺 Русский</a> | 
@@ -19,53 +14,51 @@
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">🧑‍💻 Обо мне</span>
 
 <span style="color: #900C3F; font-family: 'Courier New'; display: block; background: rgba(61, 0, 17, 0.3); padding: 10px; border-left: 3px solid #FF0033;">
-Привет! Меня зовут Sandeex. Я разработчик программного обеспечения с опытом работы в:
+C# разработчик с опытом 1 год 8 месяцев. Разрабатываю на Unity и .NET — от игровых механик до бэкенда.
 </span>
 
-- <span style="color: #C70039;">Разработке игр на Unity (C#)</span>
-- <span style="color: #7A0032;">Создании backend-решений на .NET/Python Data Analysis, Telegram bots</span>
-- <span style="color: #FF0033;">Работы с базами данных SQLite, MySQL и API</span>
-- <span style="color: #3D0011;">C/C++ для университетских лабораторных</span>
+**Мой стек и направления:**
 
-Буду очень рад советам, рекомендациям по литературе/курсам и прочее.
+- 🎮 **Unity / C# Game Developer** — игровые механики, AI (NavMesh, A*), физика (WheelCollider, Rigidbody), UI (Canvas), анимации, инвентари, крафт, State Machine.
+- ⚙️ **C# / .NET Developer** — backend на ASP.NET Core, REST API, Telegram боты, платежи (ЮMoney), асинхронность (async/await), ADO.NET, Dependency Injection.
+- 🗄️ **Базы данных** — SQLite, PostgreSQL, работа с SQL через LINQ и ADO.NET.
+- 🐍 **Python** — Data Analysis, университетские проекты.
+- 🔧 **C/C++** — лабораторные работы (алгоритмы, структуры данных).
+
+📌 **Ключевые принципы:** SOLID, ООП, паттерны проектирования, модульная архитектура.
+
 ---
 
 <a name="en"></a>
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">👨‍💻 About Me</span>
 
 <span style="color: #900C3F; font-family: 'Courier New'; display: block; background: rgba(61, 0, 17, 0.3); padding: 10px; border-left: 3px solid #FF0033;">
-Hello! I'm Sandeex. I'm a software developer with experience in:
+C# developer with 1 year and 8 months of experience. Building games with Unity and backend with .NET.
 </span>
 
-- <span style="color: #C70039;">Unity game development (C#)</span>
-- <span style="color: #7A0032;">Building backend solutions with .NET/Python Data Analysis, Telegram bots</span>
-- <span style="color: #FF0033;">Working with databases SQLite, MySQL and APIs</span>
-- <span style="color: #3D0011;">C/C++ for university labs</span>
+**Tech stack:**
 
-I'd appreciate any advice, book/course recommendations, etc.
+- 🎮 **Unity / C# Game Developer** — game mechanics, AI (NavMesh, A*), physics (WheelCollider, Rigidbody), UI (Canvas), animations, inventory, crafting, State Machine.
+- ⚙️ **C# / .NET Developer** — backend with ASP.NET Core, REST API, Telegram bots, payments (YuMoney), async/await, ADO.NET, Dependency Injection.
+- 🗄️ **Databases** — SQLite, PostgreSQL, LINQ, ADO.NET.
+- 🐍 **Python** — Data Analysis, university projects.
+- 🔧 **C/C++** — university labs (algorithms, data structures).
+
+📌 **Core principles:** SOLID, OOP, design patterns, modular architecture.
+
 ---
+
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">🛠 Technologies</span>
 
 <p align="left">
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-7A0032?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=3D0011" alt="C#"/>
-  </a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-900C3F?style=for-the-badge&logo=python&logoColor=white&labelColor=3D0011" alt="Python"/>
-  </a>
-  
-  <!-- Unity -->
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-C70039?style=for-the-badge&logo=unity&logoColor=white&labelColor=3D0011" alt="Unity"/>
-  </a>
-  
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-FF0033?style=for-the-badge&logo=.net&logoColor=white&labelColor=3D0011" alt=".NET"/>
-  </a>
+  <img src="https://img.shields.io/badge/C%23-7A0032?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=3D0011" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-FF0033?style=for-the-badge&logo=.net&logoColor=white&labelColor=3D0011" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Unity-C70039?style=for-the-badge&logo=unity&logoColor=white&labelColor=3D0011" alt="Unity"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-900C3F?style=for-the-badge&logo=.net&logoColor=white&labelColor=3D0011" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-7A0032?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=3D0011" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-FF0033?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=3D0011" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-900C3F?style=for-the-badge&logo=git&logoColor=white&labelColor=3D0011" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-C70039?style=for-the-badge&logo=python&logoColor=white&labelColor=3D0011" alt="Python"/>
 </p>
 
 ## <span style="color: #7A0032; text-shadow: 0 0 5px #3D0011; font-family: 'Courier New';">📊 GitHub Stats</span>
